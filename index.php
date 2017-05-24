@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         abc
         asd
+        qwe1010
         ?>
     </body>
 </html>
