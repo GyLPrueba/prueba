@@ -11,9 +11,9 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        'abc';
-        'asd';
-        'qwe1010';
+        echo 'abc';
+        echo 'asd';
+        echo 'qwe1010';
         ?>
     </body>
 </html>
